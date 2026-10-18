@@ -1,7 +1,6 @@
 # university-library-management-system.-
 A software solution to streamline and automate university library operations.
 
-# University Library Management System
 
 Welcome to the **University Library Management System** repository! This project is designed to automate daily library operations, making it efficient for students, faculty, and library administrators to manage books, borrowing records, and inventory.
 
@@ -70,11 +69,8 @@ gantt
     section Phase 5: Handover
     Final Docs & Demo           :2026-12-11, 2026-12-15
     M5: Final Submission        :milestone, 2026-12-15, 0d
-
-
-
-
 ---
+
 
 ## 🛠️ Step 5: Resource Requirements & Allocation Plan
 
