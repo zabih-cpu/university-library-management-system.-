@@ -73,3 +73,32 @@ gantt
 
 
 
+
+---
+
+## 🛠️ Step 5: Resource Requirements & Allocation Plan
+
+To successfully develop, test, and deliver the University Library Management System within the scheduled 8-week timeline, the following technical and operational resources have been allocated.
+
+### 1. Development & Software Stack
+* **Primary IDE:** Visual Studio Code (VS Code) with extensions for Git, C++/Java/Web languages, and Markdown tools.
+* **Version Control System (VCS):** Git & GitHub for remote repository storage, branch management, and task tracking.
+* **Terminal Environment:** Git Bash (Windows Command Line Interface).
+* **Database & Back-End:** Relational Database System (SQL / File-based Storage Engine).
+* **Front-End / UI:** User Interface framework for Library Management workflows (Desktop GUI / Web Interface).
+
+### 2. Hardware & Infrastructure Requirements
+* **Developer Workstation:** Windows 11 PC / Laptop (Intel/AMD multi-core processor, minimum 8GB RAM, SSD storage).
+* **Local Hosting Server:** Localhost development server for API/database query testing.
+* **Network & Storage:** Cloud storage on GitHub, active Internet connectivity for dependencies and sync.
+
+### 3. Resource Allocation Matrix
+
+| Resource Category | Item / Tool | Quantity / Unit | Assigned Role / Purpose |
+| :--- | :--- | :--- | :--- |
+| **Human Resource** | Zabeehullah (Lead SE) | 1 Developer | Full-Stack Development, Database Design & Documentation |
+| **IDE / Editor** | VS Code | 1 License (Open Source) | Primary Code Editor & Terminal Environment |
+| **Version Control** | Git / GitHub Repository | 1 Private/Public Repo | Repository hosting, versioning, and backup |
+| **System Testing** | Localhost Environment | 1 Workstation Setup | Unit, Integration, and GUI Testing |
+
+---
