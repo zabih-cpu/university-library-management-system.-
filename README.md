@@ -21,7 +21,9 @@ Welcome to the **University Library Management System** repository! This project
 
 ## 👥 Team Members
 
-* **Zabeehullah** *(Lead Developer / Software Engineering Student - Reg: 25MDSE041)*
+* **Zabeehullah** *(Lead Developer / Software Engineering Student - Reg: 25MDSE041)* 
+* ** mohsin hyat** 
+* ** masab umair** 
 
 ---
 
