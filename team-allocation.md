@@ -1,6 +1,0 @@
-Task ID,Project Module / Activity,Assigned Team Member,Estimated Effort (Hours/Days)
-T-01,Requirement Gathering & SRS Document,Hasnat,3 Days (15 Hours)
-T-02,Use Case & Activity Diagrams,Mohsin,2 Days (10 Hours)
-T-03,Entity-Relationship (ER) Database Design,Zarrar,3 Days (12 Hours)
-T-04,UI/UX Wireframes & Interface Prototype,Ahmad Saeed,4 Days (16 Hours)
-T-05,Final Report Compilation & Testing,Siam & Farhan,3 Days (12 Hours)
