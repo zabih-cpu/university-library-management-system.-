@@ -23,7 +23,7 @@ Welcome to the **University Library Management System** repository! This project
 
 * **Zabeehullah** *(Lead Developer / Software Engineering Student - Reg: 25MDSE041)* 
 * ** Muhammad mohsin hayat (25MDSE015)** 
-* ** masab umair** 
+* ** Masab Umair (25MDSE047)** 
 
 ---
 
