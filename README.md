@@ -22,7 +22,7 @@ Welcome to the **University Library Management System** repository! This project
 ## 👥 Team Members
 
 * **Zabeehullah** *(Lead Developer / Software Engineering Student - Reg: 25MDSE041)* 
-* ** mohsin hyat** 
+* ** Muhammad mohsin hayat (25MDSE015)** 
 * ** masab umair** 
 
 ---
