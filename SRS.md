@@ -10,25 +10,7 @@
 | **Library Administrator** | System manager overseeing policies, user roles, and reporting. | Configurable loan rules (quotas, loan days, fine rates), role-based access control, overdue/inventory analytics reports, and system audit logs. |
 | **University IT Support** | Technical staff maintaining server uptime, backups, and university SSO. | Reliable web deployment, integration with existing university student/faculty ID databases, automated backups, and clear error logging. |
 
-# Part B: Software Requirements Specification (SRS)
-**Project:** University Library Management System (LMS)  
-**Version:** 1.0 (Draft)  
-*Note: Structured using IEEE 830 / ISO/IEC/IEEE 29148 principles as educational guidance.*
-
----
-
-## 1. Introduction, Purpose, Scope, and Definitions
-
-| Section / Item | Details |
-| :--- | :--- |
-| **1.1 Purpose** | Define functional and non-functional requirements for the University Library Management System (LMS) to guide system modeling, UI prototyping, development, and QA testing. |
-| **1.2 Scope** | Web-based system replacing manual/legacy records to manage book catalogs, physical copies, member accounts, check-outs, returns, renewals, reservations, overdue fines, notifications, and reporting. |
-| **1.3 LMS** | Library Management System — the target software application. |
-| **1.4 ISBN** | International Standard Book Number — unique identifier (10- or 13-digit) for a book title/edition. |
-| **1.5 Copy ID** | Unique barcode or accession ID assigned to each individual physical copy of a book. |
-| **1.6 FIFO** | First-In, First-Out — queue ordering where the earliest reservation gets first priority when a book is returned. |
-| **1.7 RBAC** | Role-Based Access Control — restricting features/actions based on assigned user roles. |
-| **1.8 SSO** | Single Sign-On — authenticating users via existing university credentials/directory. |
+.8 SSO** | Single Sign-On — authenticating users via existing university credentials/directory. |
 
 ---
 
@@ -75,7 +57,7 @@
 | **NFR-05** | Maintainability | Borrowing quotas, loan periods, and fine rates shall be stored in configuration/database settings rather than hardcoded application logic. | Could Have |
 
 
-## AI-Assisted Requirements Review Log (Task 7)
+## 5. AI-Assisted Requirements Review Log 
 
 During requirements validation, an AI assistant reviewed the initial LMS draft requirements for **ambiguity, omissions, conflicts, and testability**. Below are six recorded review suggestions along with the team's decision and engineering justification:
 
