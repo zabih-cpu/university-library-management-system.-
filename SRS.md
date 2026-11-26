@@ -1,4 +1,4 @@
-Part A: Stakeholder Analysis, User Stories & AI Review
+ Part A: Stakeholder Analysis, User Stories & AI Review
 
 1. Stakeholder Identification & Needs Table
 
